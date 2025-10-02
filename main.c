@@ -3,7 +3,7 @@
 
 int main() {
     char buffer[100];
-    strcpy(buffer, "Hello World");
+    strcpy(buffer, "Hi World");
     printf("%s\n", buffer);
     return 0;
 }
